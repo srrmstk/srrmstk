@@ -9,13 +9,13 @@
 - 🇰🇬 &nbsp;Live in Bishkek, Kyrgyzstan
 
 <details>
-  <summary><strong>Details</strong></summary>
+  <summary><strong>More info</strong></summary>
 
 - 👔 &nbsp;Organized & standalone
 - 💻 &nbsp;Love to code
-- 💡 &nbsp;Always learning
+- 💡 &nbsp;Quick learner
 - 📐 &nbsp;Perfectionist
-- ☕️ &nbsp;Coffee lover
+- 🎧 &nbsp;Music lover
 
 </details>&nbsp;
 
@@ -27,7 +27,7 @@
 [<img src="https://img.shields.io/badge/-Telegram-8a2be2?logo=telegram&logoColor=white" alt="Telegram" />][tg]
 [<img src="https://img.shields.io/badge/-VK-8a2be2?logo=vk&logoColor=white" alt="VK" />][vk]
 
-[linkedin]: https://www.linkedin.com/in/danila-soldatov-851009233/
+[linkedin]: https://linkedin.com/in/danila-soldatov/
 [tg]: https://t.me/srrmstk
 [vk]: https://vk.com/fantasyless
 ![](https://komarev.com/ghpvc/?username=srrmstk&color=8a2be2)
