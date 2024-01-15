@@ -1,10 +1,10 @@
-<h1 align="center">Daniel Soldatov</h1>   
+<h1 align="center">Danila Soldatov</h1>   
 
-<h2>Hi there 👋 I'm Daniel, a React Native Developer <img height="20" width="20" src="https://cdn.simpleicons.org/react/#61DAFB" /></h2>
+<h2>Hi there 👋 I'm Danila, a React Native Developer <img height="20" width="20" src="https://cdn.simpleicons.org/react/#61DAFB" /></h2>
 
 ## About 
 - 👨🏻‍💻 &nbsp;Middle react native developer
-- 📱 &nbsp;Learning mobile development in SwiftUI and React Native in my spare time
+- 📱 &nbsp;Learning mobile development in Flutter and React Native in my spare time
 - 💼 &nbsp;2.5+ years of experieince
 - 🇰🇬 &nbsp;Live in Bishkek, Kyrgyzstan
 
