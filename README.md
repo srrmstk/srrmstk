@@ -3,9 +3,9 @@
 <h2>Hi there 👋 I'm Daniel, a React Native Developer <img height="20" width="20" src="https://cdn.simpleicons.org/react/#61DAFB" /></h2>
 
 ## About 
-- 👨🏻‍💻 &nbsp;Middle react native developer at [neti.mobile](https://mobile.i-neti.ru/)
+- 👨🏻‍💻 &nbsp;Middle react native developer
 - 📱 &nbsp;Learning mobile development in SwiftUI and React Native in my spare time
-- 💼 &nbsp;2+ years of experieince
+- 💼 &nbsp;2.5+ years of experieince
 - 🇰🇬 &nbsp;Live in Bishkek, Kyrgyzstan
 
 <details>
